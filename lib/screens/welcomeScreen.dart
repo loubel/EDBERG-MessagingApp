@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:msg_app/screens/login_screen.dart';
 
 class WelcomeScreen extends StatelessWidget {
   @override
@@ -43,7 +44,16 @@ class WelcomeScreen extends StatelessWidget {
                       borderRadius: BorderRadiusDirectional.circular(30.0),
                       color: Colors.grey),
                   child: FlatButton(
-                    onPressed: () {},
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) {
+                            return LoginScreen();
+                          },
+                        ),
+                      );
+                    },
                     child: Text("Login"),
                   ),
                 ),
