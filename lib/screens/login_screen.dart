@@ -25,7 +25,7 @@ class LoginScreen extends StatelessWidget {
       body: SingleChildScrollView(
         child: Container(
           height: MediaQuery.of(context).size.height - 50,
-          alignment: Alignment.bottomCenter,
+          alignment: Alignment.center,
           padding: EdgeInsets.symmetric(horizontal: 24),
           child: Column(
             mainAxisSize: MainAxisSize.min,
@@ -64,19 +64,6 @@ class LoginScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(30),
                 ),
                 child: Text("Login"),
-              ),
-              SizedBox(
-                height: 16,
-              ),
-              Container(
-                alignment: Alignment.center,
-                width: MediaQuery.of(context).size.width,
-                padding: EdgeInsets.symmetric(vertical: 20),
-                decoration: BoxDecoration(
-                  color: Colors.grey,
-                  borderRadius: BorderRadius.circular(30),
-                ),
-                child: Text("Register"),
               ),
               SizedBox(
                 height: 16,
