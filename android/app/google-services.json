@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "995790444389",
+    "project_id": "edberg-messaging-app",
+    "storage_bucket": "edberg-messaging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995790444389:android:70d56028a322525e4f738c",
+        "android_client_info": {
+          "package_name": "com.example.edberg_messangin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995790444389-0623aupvm7vsdlsvgipgsoai0cr0fuip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8tnsghMVrwefjFn0RHuWSwx6vum-1YTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995790444389-0623aupvm7vsdlsvgipgsoai0cr0fuip.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995790444389-5kcc6v18q4pv868d34uaa0hfievqakcn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edbergMessanginApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
