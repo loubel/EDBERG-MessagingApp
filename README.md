@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # edberg_messangin_app
+=======
+# msg_app
+>>>>>>> a44ac44ca00ea9b08b19fcfd234e78bf05c04e43
 
 A new Flutter project.
 

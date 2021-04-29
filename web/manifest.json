@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "edberg_messangin_app",
     "short_name": "edberg_messangin_app",
+=======
+    "name": "msg_app",
+    "short_name": "msg_app",
+>>>>>>> a44ac44ca00ea9b08b19fcfd234e78bf05c04e43
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

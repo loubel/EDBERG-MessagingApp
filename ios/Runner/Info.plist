@@ -11,7 +11,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>edberg_messangin_app</string>
+=======
+	<string>msg_app</string>
+>>>>>>> a44ac44ca00ea9b08b19fcfd234e78bf05c04e43
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

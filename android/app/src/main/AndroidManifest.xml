@@ -1,7 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.edberg_messangin_app">
    <application
         android:label="edberg_messangin_app"
+=======
+    package="com.example.msg_app">
+   <application
+        android:label="msg_app"
+>>>>>>> a44ac44ca00ea9b08b19fcfd234e78bf05c04e43
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
